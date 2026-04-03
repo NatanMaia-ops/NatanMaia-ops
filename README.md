@@ -8,7 +8,7 @@ I have hands-on experience building REST APIs using Java and Spring Boot, workin
 
 Currently, I work with system support (ERP), which strengthens my problem-solving skills and understanding of real-world systems.
 
-🚀 I am looking for an internship opportunity in backend development to apply my knowledge, grow as a developer, and contribute to real projects.
+🚀 I am looking for an internship opportunity in backend development.
 
 ---
 
@@ -21,28 +21,46 @@ Currently, I work with system support (ERP), which strengthens my problem-solvin
 - Stripe integration for payments  
 - Docker containerization  
 
-👉 *(coloque aqui o link do repositório)*
+🔗 https://github.com/NatanMaia-ops/SEU-REPOSITORIO-ORAMA
+
+---
+
+### 🏢 Backend API – Knex Consultoria
+- Backend developed in a team environment  
+- Data synchronization with PostgreSQL  
+- Participation in API lifecycle (modeling, testing, delivery)  
+
+🔗 https://github.com/NatanMaia-ops/SEU-REPOSITORIO-KNEX
+
+---
+
+### ⚡ FastAPI Project (Python)
+- REST API built with FastAPI  
+- Backend structure and endpoints  
+- Practice with Python for backend development  
+
+🔗 https://github.com/NatanMaia-ops/SEU-REPOSITORIO-FASTAPI
 
 ---
 
 ## 🤖 Technologies
 
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<br/>
-<br/>
+<p>
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanMaia-ops&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMaia-ops&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NatanMaia-ops&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NatanMaia-ops&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -50,3 +68,4 @@ Currently, I work with system support (ERP), which strengthens my problem-solvin
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/natan-alencar-573702352/
+- Email: natamaia2005@gmail.com
