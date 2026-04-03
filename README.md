@@ -1,43 +1,52 @@
-# 👩🏻‍💻 Natan Alencar
+# 👨🏻‍💻 Natan Alencar
 
-**`Computer Science Student`**
+**Computer Science Student | Backend Developer (Java & Spring Boot)**
 
-Hello, my name is Natan Alencar, I am a Computer Science student and I work as system support, I am starting out in the programming field. I am always looking for knowledge and ways to improve my skills as a developer, without neglecting my knowledge in the computing field.
+Hello! I'm Natan Alencar, a Computer Science student focused on backend development.
+
+I have hands-on experience building REST APIs using Java and Spring Boot, working with authentication (JWT), databases like PostgreSQL, and tools such as Docker and Git.
+
+Currently, I work with system support (ERP), which strengthens my problem-solving skills and understanding of real-world systems.
+
+🚀 I am looking for an internship opportunity in backend development to apply my knowledge, grow as a developer, and contribute to real projects.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🔥 Main Projects
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+### 🛒 E-commerce API (Spring Boot)
+- REST API built with Java and Spring Boot  
+- JWT authentication  
+- PostgreSQL database  
+- Stripe integration for payments  
+- Docker containerization  
 
-<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+👉 *(coloque aqui o link do repositório)*
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+---
 
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+## 🤖 Technologies
 
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
+
+## 📊 GitHub Stats
 
 <p>
-  <img align="left" alt="GitHub stats" height="200" style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=NatanMaia-ops&show_icons=true&theme=transparent&locale=pt-br" />
-
-  <img align="left" alt="GitHub Top languages Card" height="200" style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMaia-ops&theme=transparent&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanMaia-ops&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMaia-ops&layout=compact&theme=transparent"/>
 </p>
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/natan-alencar-573702352/
