@@ -21,7 +21,7 @@ Currently, I work with system support (ERP), which strengthens my problem-solvin
 - Stripe integration for payments  
 - Docker containerization  
 
-🔗 https://github.com/NatanMaia-ops/SEU-REPOSITORIO-ORAMA
+🔗 https://github.com/OramaHub
 
 ---
 
@@ -30,7 +30,7 @@ Currently, I work with system support (ERP), which strengthens my problem-solvin
 - Data synchronization with PostgreSQL  
 - Participation in API lifecycle (modeling, testing, delivery)  
 
-🔗 https://github.com/NatanMaia-ops/SEU-REPOSITORIO-KNEX
+🔗 https://github.com/NatanMaia-ops/projeto_knex/tree/main
 
 ---
 
@@ -39,7 +39,7 @@ Currently, I work with system support (ERP), which strengthens my problem-solvin
 - Backend structure and endpoints  
 - Practice with Python for backend development  
 
-🔗 https://github.com/NatanMaia-ops/SEU-REPOSITORIO-FASTAPI
+🔗 https://github.com/NatanMaia-ops/fast_api_python_back_end
 
 ---
 
