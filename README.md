@@ -8,7 +8,6 @@ I have hands-on experience building REST APIs using Java/Spring Boot and TypeScr
 
 Currently, I work with system support (ERP), which strengthens my problem-solving skills and understanding of real-world systems.
 
-🟢 **I am looking for an internship opportunity in backend development.**
 
 ---
 
