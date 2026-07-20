@@ -24,6 +24,14 @@ Tenho experiência prática desenvolvendo **agentes de IA em Python** com **Lang
 
 Minha base vem do backend: construí APIs REST com **Java/Spring Boot** e **TypeScript/Express**, trabalhando com autenticação JWT, PostgreSQL, Docker e boas práticas de engenharia de software — isso me dá uma visão sólida de como sistemas de dados se conectam a aplicações reais em produção.
 
+No dia a dia, uso modelos de fundação (**ChatGPT**, **Claude**, **Gemini**) como parte do meu fluxo de trabalho — tanto para produtividade quanto para prototipar e entender melhor as próprias ferramentas que aplico nos meus projetos de IA.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" title="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" title="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" title="Gemini"/>
+</p>
+
 ---
 
 ### 🤖 Projetos de Dados & IA
