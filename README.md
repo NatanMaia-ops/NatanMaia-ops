@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Natan+%F0%9F%91%8B;Computer+Science+Student;Backend+Developer+%7C+Java+%26+Spring+Boot;Backend+Developer+%7C+TypeScript+%26+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Natan+%F0%9F%91%8B;Data+Engineering+Intern+%40+Compass+UOL;Migrando+de+Backend+para+Dados+%26+IA;Python+%7C+LLMs+%7C+RAG+%7C+Machine+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/natan-alencar-573702352/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:natamaia2005@gmail.com">
+  <a href="mailto:natanmaia2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -18,13 +18,54 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** com foco em **desenvolvimento backend**. Tenho experiência prática construindo APIs REST com **Java/Spring Boot** e **TypeScript/Express**, trabalhando com autenticação (JWT), bancos de dados como **PostgreSQL**, e ferramentas como **Docker** e **Git**. Também uso **Prisma ORM**, **Zod** para validação e **bcrypt** para segurança de senhas.
+Sou estudante de **Ciência da Computação** e **Data Engineering Intern na Compass UOL**, migrando de desenvolvimento backend para a área de **Dados e IA**.
 
-Atualmente atuo com suporte a sistemas (ERP), o que fortalece minha capacidade de resolução de problemas e o entendimento de sistemas em produção real.
+Tenho experiência prática desenvolvendo **agentes de IA em Python** com **LangChain**, **Streamlit** e **Ollama**, aplicando técnicas de **RAG (Retrieval-Augmented Generation)** para gerar respostas contextualizadas a partir de bases de conhecimento próprias — incluindo um pipeline de RAG multimodal para documentos PDF, com extração de texto e imagens, geração de embeddings via **CLIP** e busca vetorial com **FAISS**, integrado a LLMs como **GPT-4** e **Llama 3.1**.
+
+Minha base vem do backend: construí APIs REST com **Java/Spring Boot** e **TypeScript/Express**, trabalhando com autenticação JWT, PostgreSQL, Docker e boas práticas de engenharia de software — isso me dá uma visão sólida de como sistemas de dados se conectam a aplicações reais em produção.
 
 ---
 
-### 🔥 Projetos em destaque
+### 🤖 Projetos de Dados & IA
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**📄 Pipeline de RAG Multimodal**
+<br/>
+<sub>Processamento inteligente de documentos PDF</sub>
+
+- Extração de texto e imagens de PDFs
+- Geração de embeddings com **CLIP** e busca vetorial com **FAISS**
+- Integração com LLMs (**GPT-4**, **Llama 3.1**) combinando contexto textual e visual
+- Respostas contextualizadas a partir de base de conhecimento própria
+
+`Python` `LangChain` `FAISS` `CLIP` `RAG` `LLMs`
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+**🧠 Agentes de IA com LangChain + Ollama**
+<br/>
+<sub>Aplicações interativas com modelos de linguagem locais e via API</sub>
+
+- Interface construída com **Streamlit**
+- Orquestração de agentes com **LangChain**
+- Modelos rodando localmente via **Ollama**
+- Busca por similaridade semântica em vector stores
+
+`Python` `Streamlit` `Ollama` `NLP` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Projetos Backend (base técnica)
 
 <table>
 <tr>
@@ -51,7 +92,7 @@ Atualmente atuo com suporte a sistemas (ERP), o que fortalece minha capacidade d
 <sub>API REST de autenticação e gerenciamento de usuários</sub>
 
 - Express + TypeScript
-- Drizzle ORM com PostgreSQL
+- Prisma ORM com PostgreSQL
 - Validação de dados com Zod
 - Hash seguro de senhas com bcrypt
 - Autenticação via JWT
@@ -96,18 +137,26 @@ Atualmente atuo com suporte a sistemas (ERP), o que fortalece minha capacidade d
 
 ---
 
-### 🤖 Tecnologias
+### 🛠️ Tecnologias
 
+**Dados & IA**
+<p align="left">
+  <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" title="LangChain"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" title="Ollama"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" title="Streamlit"/>
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=flat" title="FAISS"/>
+</p>
+
+**Backend & Infra**
 <p align="left">
   <img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
   <img alt="Spring" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring"/>
   <img alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
   <img alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-  <img alt="Prisma" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma"/>
   <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
   <img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 </p>
 
 ---
@@ -131,7 +180,7 @@ Atualmente atuo com suporte a sistemas (ERP), o que fortalece minha capacidade d
   <a href="https://www.linkedin.com/in/natan-alencar-573702352/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:natamaia2005@gmail.com">
+  <a href="mailto:natanmaia2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/NatanMaia-ops?tab=repositories">
