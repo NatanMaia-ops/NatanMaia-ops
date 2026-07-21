@@ -85,7 +85,7 @@ No dia a dia, uso modelos de fundação (**ChatGPT**, **Claude**, **Gemini**) co
 
 - Autenticação JWT
 - Banco de dados PostgreSQL
-- Integração de pagamentos com Stripe
+- Integração de pagamentos com Mercado Pago
 - Containerização com Docker
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `Stripe`
