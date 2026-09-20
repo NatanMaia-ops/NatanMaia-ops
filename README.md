@@ -2,89 +2,96 @@
 
 # Natan Alencar Maia
 
-### Dados, Inteligência Artificial & Cloud
+### Data & AI · Python · RAG · AWS
 
-Estudante de Ciência da Computação, com experiência prática em soluções de dados e IA generativa.
+**Ciência da Computação @ UEPB · Construindo sistemas de dados e IA com foco em aplicações reais**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/natan-alencar-573702352/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/natan-alencar-573702352/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/NatanMaia-ops)
 
 </div>
 
 ---
 
-## Sobre
+## 👋 Sobre mim
 
-Graduando em **Ciência da Computação pela Universidade Estadual da Paraíba**, com conclusão prevista para 2028. Desenvolvo projetos que transformam documentos e dados em soluções inteligentes, combinando engenharia de dados, IA generativa e desenvolvimento de software.
+Sou graduando em **Ciência da Computação pela Universidade Estadual da Paraíba (UEPB)**, com conclusão prevista para 2028. Meu foco está na interseção entre **engenharia de dados, inteligência artificial e desenvolvimento de software**.
 
-Tenho experiência com **Python, SQL, RAG, LLMs, bancos vetoriais e AWS**, além de APIs, microsserviços e aplicações conteinerizadas. Atualmente, busco oportunidades de estágio ou início de carreira em **Dados e Inteligência Artificial**.
+Desenvolvo soluções envolvendo **Python, SQL, RAG, LLMs e AWS**, além de APIs, bancos de dados e aplicações conteinerizadas. Tenho interesse especial em transformar documentos e dados brutos em sistemas capazes de recuperar, processar e apresentar informação de forma útil e rastreável.
 
-## Áreas de interesse
+Atualmente busco oportunidades de **estágio ou início de carreira em Dados e Inteligência Artificial**.
 
-- Engenharia e pipelines de dados
-- Aplicações com LLMs, RAG e agentes de IA
-- Processamento e recuperação de informações em documentos
-- Avaliação, observabilidade e segurança de sistemas de IA
-- Arquiteturas de dados e IA na AWS
+---
 
-## Projetos selecionados
+## 🚀 Projetos em destaque
 
-### [Clinical RAG Assistant](https://github.com/cleidyanne-castro/clinical-rag-assistant)
+### 🩺 [Clinical RAG Assistant](https://github.com/cleidyanne-castro/clinical-rag-assistant) · Projeto em equipe
 
-Assistente clínico experimental desenvolvido em equipe. Processa documentos PDF e responde perguntas com base nos trechos recuperados, indicando documento e página utilizados como fonte.
+Assistente clínico experimental que processa documentos PDF e responde perguntas com base nos trechos recuperados, mantendo referência ao **documento e à página utilizados como fonte**.
+
+**Engenharia envolvida:** ingestão e limpeza de documentos, chunking, embeddings, busca semântica, geração com Llama 3.1 e avaliação de fidelidade e relevância.
 
 `Python` `RAG` `ChromaDB` `Ollama` `Streamlit` `Pytest`
 
-**Destaques:** pipeline de ingestão e limpeza, chunking, embeddings, busca semântica, geração com Llama 3.1 e avaliação de fidelidade e relevância.
+### ☁️ [Concierge ConectaTel](https://github.com/cleidyanne-castro/concierge-conectatel) · Projeto em equipe
 
-### [Concierge ConectaTel](https://github.com/cleidyanne-castro/concierge-conectatel)
+Assistente de atendimento construído sobre documentos oficiais, combinando **arquitetura Medallion e RAG**. A solução considera vigência documental, decide entre resposta automática e escalonamento humano e mantém rastreabilidade por `trace_id`.
 
-Assistente de atendimento com arquitetura de dados Medallion e RAG sobre documentos oficiais. Inclui filtro de vigência, decisão entre resposta e escalonamento humano e trilha de auditoria por `trace_id`.
+**Engenharia envolvida:** processamento de dados, embeddings, busca vetorial e integração de serviços AWS para execução, armazenamento, API, auditoria e observabilidade.
 
-`Python` `Databricks` `Amazon Bedrock` `AWS` `RAG` `Docker`
+`Python` `Databricks` `Amazon Bedrock` `AWS Lambda` `API Gateway` `S3` `DynamoDB` `CloudWatch` `Docker`
 
-**Destaques:** integração entre processamento de dados, embeddings, busca vetorial, Lambda, API Gateway, S3, DynamoDB, AgentCore e CloudWatch.
+### 🏦 [Assistente de Triagem Pix](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant) · Projeto em equipe
 
-### [Assistente de Triagem Pix](https://github.com/cleidyanne-castro/aws-digital-bank-triage-assistant)
+Prova de conceito de IA generativa para triagem inicial de solicitações relacionadas ao Pix, com respostas fundamentadas em documentos públicos, controles de segurança e encaminhamento para análise humana.
 
-Prova de conceito de IA generativa para a triagem inicial de solicitações relacionadas ao Pix, com respostas fundamentadas em documentos públicos, controles de segurança e encaminhamento para análise humana.
+**Minha contribuição:** levantamento da arquitetura de rede e dos controles de comunicação necessários para operar a solução em ambiente AWS.
 
-`AWS` `Amazon Bedrock` `Redes` `Segurança em Nuvem` `IA Generativa`
+`AWS` `Amazon Bedrock` `Cloud Security` `Generative AI`
 
-**Contribuição:** levantamento da arquitetura de rede e dos controles de comunicação necessários para operar a solução em ambiente AWS.
+### 💰 [Expense API](https://github.com/NatanMaia-ops/expense_api)
 
-### [Expense API](https://github.com/NatanMaia-ops/expense_api)
+API REST para gerenciamento financeiro pessoal com persistência em MongoDB, filtros, consolidação de receitas e despesas e interface web para interação com as operações.
 
-API REST para gerenciamento de finanças pessoais, com operações CRUD, filtros, consolidação de receitas e despesas, documentação OpenAPI e persistência de dados.
+**Engenharia envolvida:** separação entre rotas e serviços, modelos com Pydantic, respostas de erro padronizadas, health check, documentação OpenAPI e ambiente local com Docker Compose.
 
-`Python` `FastAPI` `MongoDB` `Docker` `REST API`
+`Python` `FastAPI` `Pydantic` `MongoDB` `Docker` `REST API`
 
-### [Arxio](https://github.com/NatanMaia-ops/Arxio-)
+### 🎓 [Arxio](https://github.com/NatanMaia-ops/Arxio-)
 
-MVP colaborativo para publicação e interação com conteúdos acadêmicos, com gerenciamento de usuários, validação de dados e autenticação JWT.
+MVP colaborativo de uma rede acadêmica para publicação e interação com conteúdos produzidos pela comunidade universitária.
+
+**Engenharia envolvida:** backend em TypeScript, persistência relacional com Prisma/PostgreSQL, gerenciamento de usuários, validação de dados e autenticação JWT.
 
 `TypeScript` `Express` `Prisma` `PostgreSQL` `JWT`
 
-## Stack
+---
+
+## 🧰 Stack principal
 
 | Área | Tecnologias |
 |---|---|
-| **Dados & IA** | Python, SQL, RAG, LLMs, LangChain, LangGraph, Embeddings, FAISS, ChromaDB, Databricks |
-| **Cloud & Backend** | AWS, Amazon Bedrock, FastAPI, Node.js, Express, APIs REST, Microsserviços |
-| **Bancos de dados** | PostgreSQL, MongoDB, DynamoDB |
-| **Ferramentas** | Docker, Git, Linux, Ollama, Streamlit |
+| **Data & AI** | Python · SQL · RAG · LLMs · Embeddings · ChromaDB · Databricks |
+| **Cloud & Backend** | AWS · Amazon Bedrock · FastAPI · Node.js · Express · REST APIs |
+| **Bancos de dados** | PostgreSQL · MongoDB · DynamoDB |
+| **Engenharia** | Docker · Git · Linux · Pytest · Ollama · Streamlit |
 
-## Formação e desenvolvimento
+---
 
-- **Bacharelado em Ciência da Computação** — Universidade Estadual da Paraíba · conclusão prevista para 2028
-- Aprofundamento contínuo em engenharia de dados, sistemas RAG, avaliação de LLMs e soluções de IA na AWS
+## 🎯 Atualmente aprofundando
+
+Engenharia de dados, sistemas RAG, avaliação e observabilidade de aplicações com LLMs e arquiteturas de **Data & AI na AWS**. Também estou desenvolvendo projetos autorais para transformar esses estudos em experimentos reproduzíveis, com atenção a testes, métricas e decisões de arquitetura.
 
 ---
 
 <div align="center">
 
-**Aberto a oportunidades em Dados e Inteligência Artificial.**
+### Vamos conversar?
 
-<sub>Construindo soluções orientadas por dados com Python, IA e cloud.</sub>
+Estou aberto a oportunidades de **estágio e início de carreira em Dados & IA**.
+
+[![Fale comigo no LinkedIn](https://img.shields.io/badge/Fale_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-alencar-573702352/)
+
+<sub>Data · AI · Software Engineering</sub>
 
 </div>
