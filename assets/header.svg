@@ -1,0 +1,104 @@
+<svg
+  width="1200"
+  height="260"
+  viewBox="0 0 1200 260"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0">
+      <stop stop-color="#58A6FF">
+        <animate
+          attributeName="stop-color"
+          values="#58A6FF;#2F81F7;#58A6FF"
+          dur="5s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="1" stop-color="#2F81F7">
+        <animate
+          attributeName="stop-color"
+          values="#2F81F7;#58A6FF;#2F81F7"
+          dur="5s"
+          repeatCount="indefinite"
+        />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect
+    width="1200"
+    height="260"
+    rx="18"
+    fill="url(#bg)"
+  />
+
+  <text
+    x="600"
+    y="105"
+    text-anchor="middle"
+    fill="#F0F6FC"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="54"
+    font-weight="700"
+  >
+    Natan Alencar Maia
+  </text>
+
+  <text
+    x="600"
+    y="158"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+  >
+    Python Backend Developer
+  </text>
+
+  <rect
+    x="490"
+    y="195"
+    width="220"
+    height="3"
+    rx="2"
+    fill="url(#accent)"
+  >
+    <animate
+      attributeName="width"
+      values="80;220;80"
+      dur="3.5s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="x"
+      values="560;490;560"
+      dur="3.5s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <circle cx="100" cy="60" r="3" fill="#58A6FF">
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="2.5s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <circle cx="1100" cy="200" r="3" fill="#58A6FF">
+    <animate
+      attributeName="opacity"
+      values="1;0.2;1"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+  </circle>
+</svg>
